@@ -13,7 +13,7 @@
                     <div class="about-experience">
                         <img src="/images/icons/user-success.svg" alt="experience">
                         <h3>Experience</h3>
-                        <p>3+ years <br />Frontend Development</p>
+                        <p>4+ years <br />Frontend Development</p>
                     </div>
 
                     <div class="about-experience">
@@ -26,7 +26,7 @@
                 <div class="about-text">
                     <h3>About Me</h3>
                     <p>
-                        Hey there! 👋 I'm Timur, a passionate frontend developer with over three years of hands-on
+                        Hey there! 👋 I'm Timur, a passionate frontend developer with over four years of hands-on
                         experience in creating immersive and user-friendly web experiences.
                     </p>
 

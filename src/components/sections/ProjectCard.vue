@@ -62,6 +62,11 @@ export default {
         cursor: pointer;
         color: #111;
         text-decoration: none;
+        transition: 0.25s ease-in-out all;
+
+        &:hover {
+            border-color: rgba(17,17,17, 0.6);
+        }
     }
 }
 

@@ -3,7 +3,8 @@
         <TheNavbar />
         
         <div class="footer_content">
-            <p>&copy; {{ currentYear }} Timur Yessentayev. All Rights Reserved.</p>
+            <p>&copy; {{ currentYear }} All Rights Reserved.</p>
+            <p>Timur Yessentayev</p>
         </div>
     </footer>
 </template>
@@ -33,5 +34,10 @@ export default {
         align-items: center;
 
         margin: 3rem auto;
+
+        &_content {
+            text-align: center;
+        }
+        
     }
 </style>

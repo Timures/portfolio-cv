@@ -21,9 +21,15 @@ export default {
     align-items: baseline;
     gap: 2rem;
     padding: 0.5rem;
+    @media screen and (max-width: 540px) {
+        padding: 0.1rem;
+    }
     &__content {
         position: relative;
         padding-left: calc(24px + 1rem);
+        @media screen and (max-width: 540px) {
+            padding-left: calc(18px + 1rem);
+        }
         &::before {
             content: "";
             position: absolute;
@@ -32,8 +38,12 @@ export default {
             width: 24px;
             height: 24px;
             display: inline-block;
-            background-image: url(../../assets/icons/check-success-svgrepo-com.svg);
+            background-image: url(../../images/icons/check-success-svgrepo-com.svg);
             background-size: cover;
+            @media screen and (max-width: 540px) {
+                width: 18px;
+                height: 18px;
+            }
         }
         h3 {
             font-weight: bold;
