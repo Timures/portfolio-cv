@@ -10,7 +10,7 @@
             </p>
             <h1 class="title">Timur Yessentayev</h1>
             <p class="desc">
-                Frontend Developer
+                Frontend Developer (Vue/React)
             </p>
             <div class="hero-actions">
                 <a href="#contacts" class="btn hero-action--contact">Contact Info</a>
@@ -22,6 +22,7 @@
                 <a href="https://www.linkedin.com/in/timures" target="_blank" rel="nofollow">
                     <img class="icon" src="/images/icons/linkedin-round-svgrepo-com.svg" alt="LinkedIn Profile">
                 </a>
+                
             </div>
         </div>
     </section>
@@ -72,6 +73,7 @@
 
     h1 {
         font-size: 3rem;
+        text-align: center;
         @media (max-width: 767px) { 
             text-align: center;
             font-size: 2.5rem;
@@ -82,6 +84,7 @@
         font-size: 2rem;
         color: rgba(#111, 0.6);
         font-weight: bold;
+        text-align: center;
         @media screen and (max-width: 767px) {
         font-size: 1.5rem;
     }

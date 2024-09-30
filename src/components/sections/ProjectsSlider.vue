@@ -40,7 +40,7 @@
         {id: 6, title: 'onlinegibdd.ru', pic: 'onlinegibdd.ru_crop.png', desc: '#SCSS', url: 'https://onlinegibdd.ru'},
         {id: 7, title: 'tredo.co', pic: 'tredo.co_ crop.png', desc: '#Nuxt', url: 'https://tredo.co'},
         {id: 8, title: 'zhkdostyk.kz', pic: 'www.zhkdostyk.kz_ crop.png', desc: '#Jquery', url: 'https://zhkdostyk.kz'},
-        {id: 9, title: 'siteforstartup.space', pic: 'siteforstartup.space_.png', desc: '#Hugo', url: 'https://siteforstartup.space'}
+        {id: 9, title: 'nitrex.ai', pic: 'nitrex_ai.png', desc: '#Nuxt', url: 'https://nitrex.ai'}
 
       ])      
       return {

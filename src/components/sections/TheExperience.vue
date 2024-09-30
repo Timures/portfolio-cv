@@ -33,18 +33,18 @@ export default {
     setup() {
         // Список опыта
         const experiences = ref([
-            { id: 1, title: 'HTML', description: 'Experienced' },
-            { id: 2, title: 'CSS', description: 'Intermediate' },
+            { id: 1, title: 'Vue', description: 'Experienced' },
+            { id: 2, title: 'React', description: 'Intermediate' },
             { id: 3, title: 'JavaScript', description: 'Intermediate' },
-            { id: 4, title: 'TypeScript', description: 'Basic' },
+            { id: 4, title: 'TypeScript', description: 'Intermediate' },
             { id: 5, title: 'SASS', description: 'Advanced' },
-            { id: 6, title: 'BEM', description: 'Advanced' },
+            
             // Добавь больше опыта, если необходимо
         ]);
         const additionally = ref([
-            { id: 1, title: 'PHP', description: 'Basic' },
-            { id: 2, title: 'NodeJs', description: 'Intermediate' },
-            { id: 3, title: 'JavaScript', description: 'Advanced' },
+            { id: 1, title: 'Git', description: 'Intermediate' },
+            { id: 2, title: 'Figma', description: 'Basic' },
+            { id: 5, title: 'BEM', description: 'Advanced' },
             // Добавь больше опыта, если необходимо
         ]);
 

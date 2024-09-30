@@ -13,7 +13,7 @@
                     <div class="about-experience">
                         <img src="/images/icons/user-success.svg" alt="experience">
                         <h3>Experience</h3>
-                        <p>4+ years <br />Frontend Development</p>
+                        <p>6+ years <br />Frontend Development</p>
                     </div>
 
                     <div class="about-experience">
@@ -26,7 +26,7 @@
                 <div class="about-text">
                     <h3>About Me</h3>
                     <p>
-                        Hey there! 👋 I'm Timur, a passionate frontend developer with over four years of hands-on
+                        Hey there! 👋 I'm Timur, a passionate frontend developer with over five years of hands-on
                         experience in creating immersive and user-friendly web experiences.
                     </p>
 
@@ -38,11 +38,15 @@
                         project.
                     </p>
 
+                    <h3>Work experience</h3>
+                    <p>
+                        I have worked for more than 5 years in several top web agencies with various projects (from landing to CRM), startup, and for more than 2 years as a freelancer (frontend for services, integration with backend). I prefer remote work and flexible schedule.
+                    </p>
                     <h3>Hobbies:</h3>
                     <p>
                         Beyond the world of coding, you'll often find me cruising around on my scooter, soaking in the
                         freedom of the open road. Writing is another one of my passions—I maintain a <a
-                            href="https://siteforstartup.space/" target="_blank">blog</a> specifically geared towards
+                            href="https://timures.com/" target="_blank">blog</a> specifically geared towards
                         aspiring entrepreneurs, sharing insights, tips, and lessons learned from my own journey.
                     </p>
                 </div>
@@ -71,7 +75,7 @@ export default {
 
 <style lang="scss">
 .about {
-    min-height: 96vh;
+    min-height: 100vh;
     margin: 0 10rem;
 
     position: relative;
